@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 
+
+I am. Eduardo Almeida, an Embedded Software Developer and Java/C-sharp/JS/Python enthusiast. 
 
 <!--
 **eqalmeida/eqalmeida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
