@@ -1,7 +1,6 @@
 ### Hi there 
 
-I'm Eduardo Almeida, embedded systems developer and Java/SpringFramework/C#/JS/Python enthusiast.
-
+My name is Eduardo Almeida, an embedded systems developer with a passion for Java, SpringBoot, Angular and C#. 
 <!--
 **eqalmeida/eqalmeida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
